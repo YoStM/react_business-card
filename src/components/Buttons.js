@@ -5,7 +5,7 @@ function Buttons() {
     <div className="buttons">
             <button className="buttons--email">
         <a href="mailto: contact@yohan-saint-martin.fr" className="buttons--link">
-                Envoyez-moi un email
+                eMail me
         </a>
             </button>
             <button className="buttons--linkedin">
