@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# My react business-card
+
+Learning the basics of React components.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
